@@ -1,0 +1,5 @@
+py-solc-x
+eth-brownie
+pandas
+urllib3
+chardet
